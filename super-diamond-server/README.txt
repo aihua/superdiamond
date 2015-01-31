@@ -1,0 +1,1 @@
+构建部署包：mvn clean install assembly:single -Pproduction
